@@ -1,1 +1,8 @@
 #FizzBuzz
+
+##What is this project?
+
+the programs mission is to write all the numbers between 1 and 100 where all the numbers divisible by 3 are replaced with Fuzz and all the 
+numbers that are divisible by 5 are reaplaced with Buzz while all numbers that are divisible by both are replaced with FizzBuzz.  
+we first see if it is divisible by 3 and 5 so that it wont be replaced with just fizz or buzz when it should be fizzbuzz.
+then we see if it is divisible by 3 then by 5 and then if it is not divisible by either we just print the number.
